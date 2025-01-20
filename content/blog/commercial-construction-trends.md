@@ -1,5 +1,3 @@
-# Commercial Construction Trends 2024
-
 The commercial construction industry continues to evolve with new technologies, sustainability requirements, and changing workplace needs. Here are the key trends shaping commercial construction in 2024.
 
 ## 1. Sustainable Building Practices

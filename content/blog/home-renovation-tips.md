@@ -1,5 +1,3 @@
-# Essential Home Renovation Tips
-
 Planning a home renovation can be both exciting and daunting. Here are essential tips to ensure your renovation project goes smoothly.
 
 ## 1. Plan Your Budget Carefully
