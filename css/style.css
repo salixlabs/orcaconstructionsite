@@ -49,6 +49,7 @@ nav {
     font-size: 1.8rem;
     font-weight: 700;
     background: var(--gradient-text);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     transition: opacity 0.3s ease;
@@ -155,6 +156,7 @@ main {
     margin-bottom: 4rem;
     font-size: 3rem;
     background: var(--gradient-text);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-weight: 800;
@@ -199,12 +201,12 @@ main {
 }
 
 .service-card h3 {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
     background: var(--gradient-text);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    margin-bottom: 1.5rem;
-    font-weight: 700;
 }
 
 .service-card p {
@@ -342,6 +344,7 @@ footer::before {
 
 .blog-card h2 a {
     background: var(--gradient-text);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-decoration: none;
@@ -380,6 +383,7 @@ footer::before {
 
 .read-more {
     background: var(--gradient-text);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-decoration: none;
@@ -607,9 +611,13 @@ footer::before {
 }
 
 .contact-info h2 {
-    color: var(--primary-blue);
+    text-align: center;
+    font-size: 3rem;
+    background: var(--gradient-text);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     margin-bottom: 2rem;
-    font-size: 1.5rem;
 }
 
 .info-item {
@@ -713,9 +721,13 @@ footer::before {
 }
 
 .faq-group h2 {
-    color: var(--primary-blue);
-    font-size: 1.8rem;
-    margin-bottom: 1.5rem;
+    text-align: center;
+    font-size: 3rem;
+    background: var(--gradient-text);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 2rem;
 }
 
 .faq-item {
@@ -849,12 +861,13 @@ footer::before {
 }
 
 .newsletter-section h2 {
+    text-align: center;
     font-size: 2.5rem;
     background: var(--gradient-text);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    margin-bottom: 1.5rem;
-    font-weight: 700;
+    margin-bottom: 1rem;
 }
 
 .newsletter-section p {
@@ -970,6 +983,7 @@ footer::before {
 .footer-newsletter h3 {
     font-size: 2rem;
     background: var(--gradient-text);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     margin-bottom: 1rem;
