@@ -1,55 +1,61 @@
 # Sustainable Construction Practices
 
-*January 19, 2024 • 5 min read*
-
-Sustainable construction is more than just a trend—it's a fundamental shift in how we approach building projects. At Orca Construction, we're committed to implementing environmentally responsible practices in every project we undertake.
+At Orca Construction, we're committed to building a more sustainable future. Here's how we're implementing eco-friendly practices in our construction projects.
 
 ## What is Sustainable Construction?
 
-Sustainable construction focuses on using renewable and recyclable materials, reducing waste, and minimizing environmental impact throughout the construction process. This approach not only benefits the environment but also creates healthier spaces for occupants and can lead to significant cost savings over time.
+Sustainable construction focuses on using renewable and recyclable materials, minimizing waste, and reducing energy consumption throughout a building's lifecycle. It's not just about being environmentally conscious—it's about creating buildings that are more efficient, healthier for occupants, and cost-effective in the long run.
 
 ## Key Sustainable Practices We Implement
 
 ### 1. Energy-Efficient Design
-
-- Solar orientation for natural lighting
-- High-performance insulation
+- Solar orientation for natural lighting and heating
+- High-performance insulation materials
 - Energy-efficient windows and doors
-- Smart HVAC systems
+- Smart HVAC systems with heat recovery
 
 ### 2. Sustainable Materials
-
 - Recycled steel and concrete
-- FSC-certified wood products
+- FSC-certified sustainable timber
 - Low-VOC paints and finishes
-- Locally sourced materials
+- Locally sourced materials to reduce transportation emissions
 
-### 3. Waste Reduction
+### 3. Water Conservation
+- Rainwater harvesting systems
+- Low-flow fixtures and appliances
+- Drought-resistant landscaping
+- Greywater recycling systems
 
-- Construction waste recycling
-- Precise material ordering
-- Prefabrication when possible
-- On-site waste sorting
+### 4. Waste Reduction
+- Construction waste recycling programs
+- Precise material ordering to minimize excess
+- Reuse of salvaged materials when possible
+- On-site waste sorting and management
 
 ## Benefits of Sustainable Construction
 
-1. **Environmental Impact**
-   - Reduced carbon footprint
-   - Less waste in landfills
-   - Conservation of natural resources
+### Environmental Benefits
+- Reduced carbon footprint
+- Lower energy consumption
+- Minimized waste to landfills
+- Protected natural resources
 
-2. **Economic Advantages**
-   - Lower operating costs
-   - Increased property value
-   - Tax incentives and rebates
+### Economic Benefits
+- Lower operating costs
+- Reduced maintenance expenses
+- Higher property values
+- Tax incentives and rebates
 
-3. **Health Benefits**
-   - Better indoor air quality
-   - Improved thermal comfort
-   - Enhanced natural lighting
+### Health Benefits
+- Better indoor air quality
+- Increased natural lighting
+- Improved thermal comfort
+- Enhanced occupant wellbeing
 
 ## Looking Forward
 
-The future of construction is sustainable. As technology advances and environmental concerns grow, sustainable practices will become increasingly important. At Orca Construction, we're proud to be at the forefront of this movement.
+The future of construction is sustainable. As technology advances and environmental regulations become stricter, sustainable building practices will become the standard rather than the exception. At Orca Construction, we're proud to be at the forefront of this movement.
 
-Want to learn more about how we can make your next construction project more sustainable? [Contact us](../../contact.html) to discuss your options. 
+## Get Started with Sustainable Construction
+
+Ready to make your next construction project more sustainable? [Contact us](../../contact.html) to discuss how we can incorporate these practices into your build. Our team of experts will help you create a building that's not only beautiful and functional but also environmentally responsible. 

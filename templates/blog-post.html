@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><!-- PAGE_TITLE --> - Orca Construction</title>
+    <meta name="description" content="<!-- META_DESCRIPTION -->">
+    <meta name="author" content="<!-- META_AUTHOR -->">
+    <meta property="og:title" content="<!-- PAGE_TITLE --> - Orca Construction">
+    <meta property="og:description" content="<!-- META_DESCRIPTION -->">
+    <meta property="og:type" content="article">
+    <meta property="article:published_time" content="<!-- PUBLISH_DATE -->">
+    <link rel="stylesheet" href="<!-- CSS_PATH -->style.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="<!-- ROOT_PATH -->index.html" class="logo">Orca Construction</a>
+            <button class="mobile-nav-toggle" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <ul>
+                <li><a href="<!-- ROOT_PATH -->blog/index.html">Blog</a></li>
+                <li><a href="<!-- ROOT_PATH -->faq.html">FAQ</a></li>
+                <li><a href="<!-- ROOT_PATH -->contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <article class="blog-post">
+            <div class="blog-post-header">
+                <h1><!-- PAGE_TITLE --></h1>
+                <div class="blog-meta">
+                    <span class="publish-date"><!-- DISPLAY_DATE --></span>
+                    <span class="read-time"><!-- READ_TIME --></span>
+                </div>
+            </div>
+
+            <div class="blog-post-content" id="markdown-content" data-markdown="<!-- ROOT_PATH --><!-- MARKDOWN_PATH -->">
+                <!-- Markdown content will be loaded here -->
+            </div>
+
+            <footer class="blog-post-footer">
+                <div class="share-buttons">
+                    <h3>Share this article</h3>
+                    <div class="share-buttons-container">
+                        <a href="https://twitter.com/intent/tweet?text=<!-- PAGE_TITLE -->&url=<!-- CURRENT_URL -->" 
+                           target="_blank" rel="noopener noreferrer" class="share-button twitter">
+                            Share on Twitter
+                        </a>
+                        <a href="https://www.linkedin.com/sharing/share-offsite/?url=<!-- CURRENT_URL -->" 
+                           target="_blank" rel="noopener noreferrer" class="share-button linkedin">
+                            Share on LinkedIn
+                        </a>
+                    </div>
+                </div>
+
+                <div class="post-navigation">
+                    <!-- PREV_POST -->
+                    <!-- NEXT_POST -->
+                </div>
+
+                <div class="related-posts">
+                    <h3>Related Articles</h3>
+                    <div class="related-posts-grid">
+                        <!-- RELATED_POSTS -->
+                    </div>
+                </div>
+            </footer>
+        </article>
+
+        <section class="newsletter-section">
+            <h2>Stay Updated with Our Latest Insights</h2>
+            <p>Subscribe to our newsletter for more construction insights and industry updates.</p>
+            <form class="newsletter-form">
+                <input type="email" placeholder="Enter your email address" required>
+                <button type="submit">Subscribe</button>
+                <div class="form-status"></div>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Orca Construction. All rights reserved.</p>
+    </footer>
+
+    <script src="<!-- ROOT_PATH -->js/main.js"></script>
+    <script src="<!-- ROOT_PATH -->js/newsletter.js"></script>
+</body>
+</html> 

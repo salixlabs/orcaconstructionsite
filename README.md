@@ -12,3 +12,11 @@ A basic static site for Orca Construction, construction business.
 
 ## Domain
 Website will be deployed to www.orca.construction
+
+## Coding Notes
+
+### to create a new page, use the following python script:
+./scripts/generate_page.py "path/to/new-page.html" "Page Title"
+### for example, to create a new blog post:
+./scripts/generate_page.py "blog/posts/new-post.html" "New Blog Post"
+
