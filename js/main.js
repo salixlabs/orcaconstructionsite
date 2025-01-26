@@ -7,7 +7,7 @@ async function loadMarkdownContent() {
     if (!markdownPath) return;
 
     try {
-        const response = await fetch(`/${markdownPath}`);
+        const response = await fetch(markdownPath);
         if (!response.ok) {
             throw new Error(`Failed to load content: ${response.status} ${response.statusText}`);
         }
@@ -68,7 +68,6 @@ function initMobileNav() {
 
 // Initialize when the DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
-    initializeContent();
-    initMobileNav();
     loadMarkdownContent();
+    initMobileNav();
 }); 
